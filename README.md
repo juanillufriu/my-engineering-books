@@ -46,6 +46,12 @@ Current focus (3rd Year):
 **EN:** The original content created by me in this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**.
 **ES:** El contenido original creado por mí en este repositorio está bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional**.
 
+graph TD
+    A[Libro Original] -->|Lectura| B(Resumen Personal)
+    B --> C{Repositorio Público}
+    C -->|Notas| D[GitHub]
+    C -->|PDF Original| E[Carpeta Privada/Local]
+
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
