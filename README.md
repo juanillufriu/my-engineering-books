@@ -16,12 +16,13 @@
 
 ---
 ### 🛠️ Learning Workflow | Flujo de Aprendizaje
-mermaid
+```mermaid
 graph LR
     A[Clase/Lectura] --> B(Toma de Notas)
     B --> C{Repositorio}
     C --> D[Resúmenes Públicos]
     C --> E[Material Privado]
+```
 ---
 
 ## 📚 Study Areas | Áreas de Estudio
