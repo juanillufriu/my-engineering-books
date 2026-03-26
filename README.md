@@ -44,9 +44,9 @@ Current focus (3rd Year):
 
 | Title / Título | Author / Autor | Status / Estado |
 | :--- | :--- | :--- |
-| *Clean Code* | Robert C. Martin | ✅ Completed |
-| *Análisis de Datos con Python* | J. I. Llufriu | 📖 In Progress |
-| *Database Systems* | Ramez Elmasri | ⏳ Queue |
+| *Elementos esenciales para Programación - Algoritmos y Estructuras de Datos* | Varios Autores | ✅ Completed |
+| *Python for Data Analysis* | Wes McKinney | 📖 In Progress |
+| *Naked Statistics Stripping the Dread from the Data* | Charles Wheelan | ⏳ Queue |
 
 ---
 
