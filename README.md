@@ -15,6 +15,14 @@
 **ES:** Este repositorio funciona como una documentación profesional de mi camino de aprendizaje en **Ingeniería en Sistemas de Información**. Aquí organizo mis notas académicas, resúmenes de libros e ideas técnicas para consolidar mi conocimiento y compartir recursos con la comunidad.
 
 ---
+### 🛠️ Learning Workflow | Flujo de Aprendizaje
+mermaid
+graph LR
+    A[Clase/Lectura] --> B(Toma de Notas)
+    B --> C{Repositorio}
+    C --> D[Resúmenes Públicos]
+    C --> E[Material Privado]
+---
 
 ## 📚 Study Areas | Áreas de Estudio
 
@@ -46,11 +54,6 @@ Current focus (3rd Year):
 **EN:** The original content created by me in this repository is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**.
 **ES:** El contenido original creado por mí en este repositorio está bajo la licencia **Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional**.
 
-graph TD
-    A[Libro Original] -->|Lectura| B(Resumen Personal)
-    B --> C{Repositorio Público}
-    C -->|Notas| D[GitHub]
-    C -->|PDF Original| E[Carpeta Privada/Local]
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
