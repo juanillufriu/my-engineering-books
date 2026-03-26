@@ -18,7 +18,7 @@
 ### 🛠️ Learning Workflow | Flujo de Aprendizaje
 ```mermaid
 graph LR
-    A[Clase/Lectura] --> B(Toma de Notas)
+    A[Clase/Lectura/Cursos] --> B(Toma de Notas)
     B --> C{Repositorio}
     C --> D[Resúmenes Públicos]
     C --> E[Material Privado]
