@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-Information%20Systems%20Engineering-blue?style=for-the-badge" alt="Degree">
   <img src="https://img.shields.io/badge/Status-3rd%20Year%20Student-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/ProjectStatus-In%20Progress-yellow?style=for-the-badge" alt="ProjectStatus">
 </p>
 
 ---
