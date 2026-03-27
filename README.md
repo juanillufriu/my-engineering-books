@@ -15,7 +15,10 @@
 **ES:** Este repositorio funciona como una documentación profesional de mi camino de aprendizaje en **Ingeniería en Sistemas de Información**. Aquí organizo mis notas académicas, resúmenes de libros e ideas técnicas para consolidar mi conocimiento y compartir recursos con la comunidad.
 
 ---
+
 ### 🛠️ Learning Workflow | Flujo de Aprendizaje
+
+[![](https://mermaid.ink/img/pako:eNpNT81OwzAMfpXIJ5C6jaasXXNAYh23gaaJE-sOZjFbRNNUSYqAqi-2616MrBMIn2x_f3YHOyMJBOwtNge2XJc1C3W_KSp0NFnSzrcWJ0VrnXFbNhrdsfnVs9HIJLEn49FdXxTzASu6NTXGKW-sMv0FKQZksVmTOx011eTY6nR8rdQuOP6nPGwe0ZNVWLGVVR8ozRaicJiSILxtKQJNVuN5hO4sLMEfSFMJIrQS7XsJZd0HTYP1izH6V2ZNuz-AeMPKhaltZIhZKAwv67-tpVqSLUxbexBxwgcTEB18gsjSccLzGZ9l0zRLeBpH8BVIGR_H_Daf5kme8zyNkz6C7yH2Zhyo_Q9YIGx-?type=png)](https://mermaid.live/edit#pako:eNpNT81OwzAMfpXIJ5C6jaasXXNAYh23gaaJE-sOZjFbRNNUSYqAqi-2616MrBMIn2x_f3YHOyMJBOwtNge2XJc1C3W_KSp0NFnSzrcWJ0VrnXFbNhrdsfnVs9HIJLEn49FdXxTzASu6NTXGKW-sMv0FKQZksVmTOx011eTY6nR8rdQuOP6nPGwe0ZNVWLGVVR8ozRaicJiSILxtKQJNVuN5hO4sLMEfSFMJIrQS7XsJZd0HTYP1izH6V2ZNuz-AeMPKhaltZIhZKAwv67-tpVqSLUxbexBxwgcTEB18gsjSccLzGZ9l0zRLeBpH8BVIGR_H_Daf5kme8zyNkz6C7yH2Zhyo_Q9YIGx-)
 
 ---
 
